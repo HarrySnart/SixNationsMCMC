@@ -9,3 +9,4 @@ The analysis can be re-produced using either SAS Code (see "Compare Home and Awa
 
 The SAS Notebook can be interacted with in Visual Studio Code and you can view the SAS outputs without having to re-run the code or load the data into your SAS environment.
 
+![](sas_notebook.png?raw=true)
